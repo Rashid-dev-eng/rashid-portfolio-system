@@ -1,0 +1,14 @@
+# Local Python environment and temporary files
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local development logs
+*.log
+*.err
+
+# VS Code workspace files
+.vscode/
+
+# Keep db.sqlite3 and media/ tracked only in a PRIVATE repository when you
+# want to transfer your existing content to another computer.
